@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "cd66ace5099311f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2922cbeff7c305b1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "t4este.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd9ac3e20c2ba325",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd641d85589ff87c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c875a818b7ca299f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "159738780fdb2835",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c97e5143e9c48f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b51a3912f81c7ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43ed23f248fd07cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "t4este.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2922cbeff7c305b1",
+  "lastOpenFiles": [
+    "t4este.md"
+  ]
+}
