@@ -7,8 +7,12 @@
         "id": "2922cbeff7c305b1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "011 Backend Roadmap.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "011 Backend Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +89,15 @@
   },
   "active": "2922cbeff7c305b1",
   "lastOpenFiles": [
-    "Untitled.md",
-    "t4este.md"
+    "011 Backend Roadmap.md",
+    "More about Databases.md",
+    "Relational Databases.md",
+    "Learn a Language.md",
+    "Repo Hosting Services.md",
+    "OS and General Knowledge.md",
+    "Version Control Systems.md",
+    "NoSQL Databases.md",
+    "Basic Frontend Knowledge.md",
+    "013 DevOps Roadmap.md"
   ]
 }

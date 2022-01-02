@@ -1,0 +1,4 @@
+## Index Categories
+- [[010 Roadmaps]]
+- [[020 Cheatsheets]]
+- [[090 Music]]
