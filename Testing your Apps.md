@@ -1,4 +1,0 @@
-- [ ] [[Mocking]]
-- [ ] [[Behavior Testing]]
-- [ ] [[Integration Testing]]
-- [ ] [[Unit Testing]]

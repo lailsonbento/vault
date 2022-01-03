@@ -1,5 +1,0 @@
-- [ ] [[Recursion]]
-- [ ] [[Longest Common Subsequence]]
-- [ ] [[Logest Increaing Subsequence]]
-- [ ] [[Edit Distance]]
-- [ ] [[Minimum Partition]]

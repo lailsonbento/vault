@@ -1,1 +1,0 @@
-General topics that you should learn and care about for the sustainability of the product.

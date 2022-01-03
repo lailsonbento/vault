@@ -1,3 +1,0 @@
-- [ ] [[Cucumber-JVM]]
-- [ ] [[Cukes]]
-- [ ] [[JBehave]]

@@ -1,3 +1,0 @@
-- [X] [[HTML]]
-- [X] [[CSS]]
-- [x] [[JavaScript]]

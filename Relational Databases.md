@@ -1,5 +1,0 @@
-- [x] [[PostgreSQL]]
-- [x] [[MySQL]]
-- [ ] [[MariaDB]]
-- [x] [[MS SQL]]
-- [x] [[Oracle]]

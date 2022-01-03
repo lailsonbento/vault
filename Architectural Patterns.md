@@ -1,5 +1,0 @@
-- [ ] [[Monolithic Apps]]
-- [ ] [[Microservices]]
-- [ ] [[SOA]]
-- [ ] [[Serverless]]
-- [ ] [[CQRS and Event Sourcing]]

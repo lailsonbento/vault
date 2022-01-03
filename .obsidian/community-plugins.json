@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "obsidian-kanban",
+  "obsidian-day-planner",
+  "cm-editor-syntax-highlight-obsidian",
+  "note-refactor-obsidian"
 ]

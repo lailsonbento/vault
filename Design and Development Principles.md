@@ -1,7 +1,0 @@
-- [ ] [[SOLID]]
-- [ ] [[KISS]]
-- [ ] [[YAGNI]]
-- [ ] [[DRY]]
-- [ ] [[GOF Design Patterns]]
-- [ ] [[Domain Driven Design]]
-- [ ] [[Test Driven Development]]

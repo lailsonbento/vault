@@ -1,4 +1,0 @@
-- [ ] [[Mocking]]
-
-- [ ] [[JUnit]]
-- [ ] [[TestNG]]
