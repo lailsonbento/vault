@@ -7,11 +7,9 @@
         "id": "2922cbeff7c305b1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Personal/Roadmap.md",
-            "mode": "source",
-            "source": true
+            "file": "Personal/To Study - Kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Roadmap.md",
+                "file": "Personal/To Study - Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +94,15 @@
   },
   "active": "2922cbeff7c305b1",
   "lastOpenFiles": [
-    "Personal/Roadmap.md",
     "Personal/To Study - Kanban.md",
-    "Programming/000 Index.md",
-    "Programming/010 Roadmaps.md",
+    "Programming/Learn a Language.md",
+    "Scala.md",
     "Programming/011 Backend Roadmap.md",
+    "Programming/010 Roadmaps.md",
+    "Personal/Roadmap.md",
+    "Programming/000 Index.md",
     "Programming/README.md",
     "Programming/012 Java Roadmap.md",
-    "Programming/013 DevOps Roadmap.md",
-    "Programming/014 Algorithms and Data Structure Roadmap.md",
-    "Programming/020 Cheatsheets.md"
+    "Programming/013 DevOps Roadmap.md"
   ]
 }
