@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Open
 
+- [ ] Scala
 - [ ] Kotlin
 - [ ] Spark
 - [ ] Kafka
@@ -18,7 +19,6 @@ kanban-plugin: basic
 
 ## WIP
 
-- [ ] Scala
 
 
 ## Done

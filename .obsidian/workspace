@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2922cbeff7c305b1",
+        "id": "f525ee1dfeab2952",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Personal/To Study - Kanban.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/To Study - Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,17 +89,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2922cbeff7c305b1",
+  "active": "f525ee1dfeab2952",
   "lastOpenFiles": [
+    "Personal/Untitled.md",
     "Personal/To Study - Kanban.md",
-    "Programming/Learn a Language.md",
-    "Scala.md",
-    "Programming/011 Backend Roadmap.md",
     "Programming/010 Roadmaps.md",
-    "Personal/Roadmap.md",
+    "Programming/Architectural Patterns.md",
+    "Programming/011 Backend Roadmap.md",
     "Programming/000 Index.md",
-    "Programming/README.md",
-    "Programming/012 Java Roadmap.md",
-    "Programming/013 DevOps Roadmap.md"
+    "Programming/Server side caching.md",
+    "Programming/Search Engines.md",
+    "Programming/Learn a Language.md",
+    "Programming/Rock the JVM.md"
   ]
 }
