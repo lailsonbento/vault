@@ -1,3 +1,3 @@
-- [ ] [[Log4j2]]
+- [x] [[Slf4j]]
 - [ ] [[Logback]]
 - [ ] [[TinyLog]]

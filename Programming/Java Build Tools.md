@@ -1,3 +1,3 @@
 - [ ] [[Gradle]]
-- [ ] [[Maven]]
+- [x] [[Maven]]
 - [ ] [[Ant]]

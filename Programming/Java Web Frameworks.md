@@ -1,3 +1,3 @@
-- [ ] [[Spring Framework]]
+- [x] [[Spring Framework]]
 - [ ] [[Quarkus]]
 - [ ] [[Play Framework]]

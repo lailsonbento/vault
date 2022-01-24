@@ -1,5 +1,5 @@
 ## [[Java]]
-- [ ] [[JPA]]
-- [ ] [[Spring Data JPA]]
-- [ ] [[Hibernate]]
+- [x] [[JPA]]
+- [x] [[Spring Data JPA]]
+- [x] [[Hibernate]]
 - [ ] [[EBean]]

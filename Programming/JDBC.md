@@ -1,2 +1,2 @@
 - [ ] [[JDBI3]]
-- [ ] [[JDBC Template]]
+- [x] [[JDBC Template]]

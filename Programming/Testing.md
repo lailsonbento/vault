@@ -1,3 +1,3 @@
 - [ ] [[Integration Testing]]
-- [ ] [[Unit Testing]]
+- [x] [[Unit Testing]]
 - [ ] [[Functional Testing]]
