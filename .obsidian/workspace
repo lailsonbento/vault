@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Getting Deeper with Java.md",
+            "file": "Programming/014 Algorithms and Data Structure Roadmap.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Getting Deeper with Java.md",
+                "file": "Programming/014 Algorithms and Data Structure Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "f525ee1dfeab2952",
   "lastOpenFiles": [
-    "Programming/Getting Deeper with Java.md",
-    "Programming/012 Java Roadmap.md",
-    "Java Generics.md",
-    "Java Collection Framework.md",
-    "Programming/010 Roadmaps.md",
-    "Programming/011 Backend Roadmap.md",
-    "Programming/Testing.md",
-    "Programming/JDBC.md",
-    "Programming/Java Logging Framework.md",
-    "Programming/Java Web Frameworks.md"
+    "Programming/014 Algorithms and Data Structure Roadmap.md",
+    "Personal/To Study - Kanban.md",
+    "Programming/Dynamic Programming.md",
+    "Day Planners/Day Planner-20220222.md",
+    "Day Planners/Day Planner-20220117.md",
+    "Day Planners/Day Planner-20220104.md",
+    "Programming/Algorithms.md",
+    "Programming/Java Collection Framework.md",
+    "Programming/Scala.md",
+    "Programming/Java Generics.md"
   ]
 }

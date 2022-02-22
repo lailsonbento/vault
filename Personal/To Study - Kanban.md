@@ -19,6 +19,8 @@ kanban-plugin: basic
 
 ## WIP
 
+- [ ] Algorithms
+- [ ] Data Structure
 
 
 ## Done

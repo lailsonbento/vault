@@ -9,4 +9,24 @@
 
 ---
 
-TODO: https://github.com/yuvrajverma01/Data-Structures-And-Algorithms-Roadmap
+- [ ] Strings/Arrays  
+- [ ] Listas  
+- [ ] Mapas/Dicionários  
+- [ ] Algoritmos de ordenação  
+- [ ] Busca binária  
+- [ ] Filas  
+- [ ] Pilhas  
+- [ ] Árvores e BSTs  
+- [ ] Heaps/Filas de prioridades  
+- [ ] Grafos  
+- [ ] BFS  
+- [ ] DFS  
+- [ ] Tries  
+- [ ] UnionFind
+
+---
+
+
+TODO: 
+	- https://github.com/yuvrajverma01/Data-Structures-And-Algorithms-Roadmap
+	- [leetcode.com](https://leetcode.com)
