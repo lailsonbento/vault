@@ -7,11 +7,9 @@
         "id": "f525ee1dfeab2952",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Programming/014 Algorithms and Data Structure Roadmap.md",
-            "mode": "preview",
-            "source": true
+            "file": "Personal/To Study - Kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/014 Algorithms and Data Structure Roadmap.md",
+                "file": "Personal/To Study - Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +94,8 @@
   },
   "active": "f525ee1dfeab2952",
   "lastOpenFiles": [
-    "Programming/014 Algorithms and Data Structure Roadmap.md",
     "Personal/To Study - Kanban.md",
+    "Programming/014 Algorithms and Data Structure Roadmap.md",
     "Programming/Dynamic Programming.md",
     "Day Planners/Day Planner-20220222.md",
     "Day Planners/Day Planner-20220117.md",

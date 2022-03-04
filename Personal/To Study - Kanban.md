@@ -9,18 +9,20 @@ kanban-plugin: basic
 - [ ] Scala
 - [ ] Kotlin
 - [ ] Spark
-- [ ] Kafka
-- [ ] Microservice architecture
 - [ ] Go
 - [ ] Akka
 - [ ] CI/CD
 - [ ] Design Patterns
+- [ ] Data Structure
+- [ ] Algorithms
+- [ ] Bootcamps IGTI (Arquiteto de Software e Soluções)
+- [ ] Kafka
 
 
 ## WIP
 
-- [ ] Algorithms
-- [ ] Data Structure
+- [ ] Microservice architecture
+- [ ] Spring Cloud
 
 
 ## Done
