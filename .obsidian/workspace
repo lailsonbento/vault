@@ -7,9 +7,11 @@
         "id": "f525ee1dfeab2952",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Personal/To Study - Kanban.md"
+            "file": "Programming/Java Functional Programming.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/To Study - Kanban.md",
+                "file": "Programming/Java Functional Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +96,15 @@
   },
   "active": "f525ee1dfeab2952",
   "lastOpenFiles": [
+    "Programming/Java Functional Programming.md",
+    "Programming/Java Fundamentals.md",
+    "Programming/Java Collection Framework.md",
+    "Programming/Behavior Testing.md",
+    "Programming/012 Java Roadmap.md",
+    "Programming/Java.md",
+    "Programming/IP Address.md",
     "Personal/To Study - Kanban.md",
     "Programming/014 Algorithms and Data Structure Roadmap.md",
-    "Programming/Dynamic Programming.md",
-    "Day Planners/Day Planner-20220222.md",
-    "Day Planners/Day Planner-20220117.md",
-    "Day Planners/Day Planner-20220104.md",
-    "Programming/Algorithms.md",
-    "Programming/Java Collection Framework.md",
-    "Programming/Scala.md",
-    "Programming/Java Generics.md"
+    "Programming/Dynamic Programming.md"
   ]
 }

@@ -23,6 +23,7 @@ kanban-plugin: basic
 
 - [ ] Microservice architecture
 - [ ] Spring Cloud
+- [ ] Voting Poll
 
 
 ## Done
